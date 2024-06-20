@@ -1,0 +1,10 @@
+
+run
+    ㄴ my-app안에서 npm start
+
+install
+    ㄴ npx create-react-app my-app
+
+cmd
+    ㄴ npm --version
+    ㄴ node --version

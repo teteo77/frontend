@@ -1,0 +1,13 @@
+react document
+    ㄴ 검색해서 주요개념 익히기
+        ㄴ 2 JSX 소개 정리하기
+    
+
+https://react.dev/
+
+node_modules : npm install을 하여 설치된 모듈들이 위치하는 폴더
+public : static 자원 폴더, 정적 파일들을 위한 폴더
+src : 리액트를 작업할 폴더
+
+nodejs홈페이지 에서 node.js 다운로드
+

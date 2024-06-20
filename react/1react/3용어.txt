@@ -1,0 +1,8 @@
+jsx
+    ㄴ js문법을 확장 시킨것
+    ㄴ javascipt+ XML/HTML을 합친것
+    ㄴ 내부적으로 js코드로 변환하는 과정을 거친다.
+    
+
+npm
+    ㄴ node package manager
