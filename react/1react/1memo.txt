@@ -1,6 +1,36 @@
+코딩 메모왕 TV꺼
+useState | React 이해하기 - 리액트 [1]
+ ㄴ 강의 10번까지 보기
+        ㄴ 정리 끝나면 다시 react document정리하기
+
+3
+    ㄴ useRef
+    // State는 상태가 변화면 렌더링 된다.
+        // ㄴ 증가할때마다 렌더링 된다.
+    // useRef
+        // ㄴ Ref로 관리된 변수는 상태가 변화더라도 렌더링은 되지 않는다.
+        // ㄴ 계산은 하지만 렌더링 하지 않을때 사용
+
+    ㄴ function handleInput(event) {
+    console.log(event.target.value); 
+    }
+        ㄴ event는 이벤트 객체이며, 주로 사용자 상호작용(예: 클릭, 입력 등)으로 생성됩니다. 
+        target은 이벤트가 발생한 요소를 가리키며, 
+        value는 그 요소의 값입니다.
+
+2
+    ㄴ useEffect
+        ㄴ 변수배열의 상태-값이 변경되면 수가 실행된다.
+1
+    ㄴ useState
+        ㄴ useState 사용을 위해선 import로 가져 와줘야 한다
+        ㄴ React는 상태(useState)가 변해야 렌더링 해준다
+       
+        
+
 react document
-    ㄴ 검색해서 주요개념 익히기
-        ㄴ 2 JSX 소개 정리하기
+    ㄴ 3. 엘리먼트 렌더링
+        ㄴ 렌더링 된 엘리먼트 업데이트하기 페이지 이동하는 기능 만들어서 정리하기
     
 
 https://react.dev/
