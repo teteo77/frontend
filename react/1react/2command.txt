@@ -1,3 +1,5 @@
+package
+    ㄴ npm i react-router-dom
 
 run
     ㄴ my-app안에서 npm start
