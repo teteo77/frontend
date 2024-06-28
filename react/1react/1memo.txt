@@ -1,3 +1,7 @@
+리액트 useReducer로 상태 관리하기(useState와 비교) | React 가지고 놀아보기 귀여워짐
+    ㄴ reducer를 익혀야 한다
+    ㄴ 영상보고 reducer습득하기
+
 정리한대 까지 React-router-dom 설정해서 정리하기
 
 코딩 메모왕 TV꺼
