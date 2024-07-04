@@ -4,10 +4,6 @@
 
 정리한대 까지 React-router-dom 설정해서 정리하기
 
-코딩 메모왕 TV꺼
-useState | React 이해하기 - 리액트 [1]
-    ㄴ 정리 끝나면 다시 react document정리하기
-
 3
     ㄴ useRef
     // State는 상태가 변화면 렌더링 된다.

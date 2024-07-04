@@ -2,8 +2,6 @@ import {useState} from "react";
 
 function App() {
 
-
-
 // React는 상태(useState)가 변해야 렌더링 해준다.
 // const [number, setNumber]  =  useState(0);
 //   . count  : 변수
